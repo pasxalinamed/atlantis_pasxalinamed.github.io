@@ -46,7 +46,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 78,
+    "uniqCompNum": 89,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-118x125-1.png",
@@ -61,7 +61,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "ATLANTIS",
         "meta_descr": "ATLANTIS | Authoring tool for indoor augmented and diminished reality experiences",
         "header_custom": "",
         "footer_custom": "",
@@ -1045,7 +1045,7 @@
     "diminished_reality.html": {
       "settings": {
         "title": "Diminished_reality",
-        "order": 1,
+        "order": 2,
         "meta_descr": "Diminished reality"
       },
       "components": [
@@ -1715,7 +1715,7 @@
     "image_inpainting.html": {
       "settings": {
         "title": "Image_inpainting",
-        "order": 2,
+        "order": 3,
         "meta_descr": "Image Inpainting"
       },
       "components": [
